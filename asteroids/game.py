@@ -65,3 +65,4 @@ class Game:
                 self.gameState.update(self.screen)
                 self.gameState.draw(self.screen)
                 accumulator -= dt
+                
