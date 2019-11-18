@@ -65,6 +65,3 @@ class Game:
                 self.gameState.update(self.screen)
                 self.gameState.draw(self.screen)
                 accumulator -= dt
-
-            #if frameTime != 0:
-                #print(1.0 / dt)
